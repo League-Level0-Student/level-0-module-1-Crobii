@@ -7,9 +7,9 @@ public class Merry_Unbirthday {
 		String birthday = JOptionPane.showInputDialog(null, "What day is your birthday?");
 	if (birthday.equals ("9/20")) {
 	JOptionPane.showMessageDialog(null, "happy birthday!");
+	}
 	else {
-		JOptionPane.showMessageDialog(null, "merry unbirthday!")
-	
+		JOptionPane.showMessageDialog(null, "merry unbirthday!");
 	}
 	}
 }
