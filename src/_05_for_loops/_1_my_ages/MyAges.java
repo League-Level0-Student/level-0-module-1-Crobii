@@ -38,7 +38,7 @@ public class MyAges {
 		// for ( age=0; age <= yourAge; age +=1 ) {
 		for (age=0; age <= yourCurrentAge; age +=1) {
 		// Print the age variable
-System.out.println(age);
+			System.out.println(age);
 		// End the for loop here
 		}
 		// Run the program again.
